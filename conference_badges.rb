@@ -11,5 +11,5 @@ def batch_badge_creator(name_array)
 end
 
 def assign_rooms(speaker_list)
-  speaker_list.each_with_index
+  speaker_list.each_with_index do
 end
